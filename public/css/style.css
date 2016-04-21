@@ -62,3 +62,7 @@ body{
 	background: rgba(163,2,52,.5);
 	padding: 10px;
 }
+
+#contact-wrapper {
+	text-align: center;
+}
