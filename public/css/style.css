@@ -1,17 +1,28 @@
+body{
+	padding: 0;
+	margin: 0;
+}
 .banner {
 	width: 100%;
+	height: 100px;
 	background-color: white;
+}
+
+.banner a{
+	position: relative;
+	top: 15px;
+	margin-left: 20px;
 }
 
 .navbar{
 	float: right;
 	position: relative;
-	top: 35px;
+	top: 55px;
 }
 
 .navbar a {
 	text-decoration: none;
-	color: red;
+	color: #A30234;
 	font-family: "Helvetica";
 	font-size: 20px;
 	margin-right: 10px;
@@ -20,4 +31,34 @@
 
 .navbar a:visited {
 	color: red;
+}
+
+#content{
+	width: 100%;
+	height: 710px;
+	background-color: black;
+}
+
+#footer {
+	width: 100%;
+	height: 100px;
+	background-color: #A30234;
+}
+
+
+/*Carousel*/
+.item img {
+	margin: auto;
+}
+
+.carousel-indicators{
+	position: relative;
+	top:100px;
+	color: black;
+}
+
+.carousel-caption {
+	color: white;
+	background: rgba(163,2,52,.5);
+	padding: 10px;
 }
