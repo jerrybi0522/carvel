@@ -163,3 +163,30 @@ body{
 #deal-image img{
 	width: 100%;
 }
+
+/*orderpage*/
+
+#orderPage{
+	height: 300px;
+	width: 400px;
+	background:  #A30234;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	text-align: center;
+	margin: 100px auto;
+	border-radius: 20px;
+	padding: 20px;
+}
+#orderPage span{
+	font-size: 30px;
+}
+#orderForm{
+	margin: 30px auto;
+	width: 200px;
+}
+
+
+
+#orderButton{
+	color: black;
+}
