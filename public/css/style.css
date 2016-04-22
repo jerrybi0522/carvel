@@ -98,6 +98,7 @@ body{
 	padding: 30px;
 	color: white;
 	margin-top: 3%;
+	border-radius: 20px;
 }
 
 #contact-info {
@@ -130,17 +131,14 @@ body{
 	width: 50%;
 	margin: auto;
 	background-color: #A30234;
-	height: 80%;
 	margin-top: 4%;
 	background-color: #A30234;
 	height: 80%;
-	width: 600px;
-	float: right;
-	margin:50px;
-
+	border-radius: 20px;
 }
 
 #deal {
+
     background-color: #A30234;
     height: 80%;
     width: 600px;
