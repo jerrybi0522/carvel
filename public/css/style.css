@@ -62,6 +62,7 @@ body{
 	width: 700px;
 	height: 444px;
 	margin: 90px 10px 10px 10px;
+	float:left;
 }
 .item img {
 	margin: auto;
@@ -111,6 +112,7 @@ body{
 	font-size: 20px;
 }
 
+<<<<<<< HEAD
 #map {
 	margin: auto;
 }
@@ -129,4 +131,30 @@ body{
 	background-color: #A30234;
 	height: 80%;
 	margin-top: 4%;
+	background-color: #A30234;
+	height: 80%;
+	width: 600px;
+	float: right;
+	margin:50px;
+
+}
+
+#deal span{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	color: white;
+	margin: 0 30%;
+	display: inline-block;
+	max-width: 500px;
+}
+
+#deal-image{
+	height: 300px;
+	width: 90%;
+	margin: 100px auto;
+}
+
+#deal-image img{
+	width: 100%;
 }
