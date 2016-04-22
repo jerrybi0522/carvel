@@ -2,10 +2,10 @@
 	<span>Send us your order</span>
 	<form id="orderForm">
 		Address: <br>
-		<input type="text"></input><br>
+		<input type="text" name="orderAddress"></input><br>
 		Choose a cake:<br>
-		<input type="text"></input><br>
-		<input id="orderButton" type="submit" value="Submit"></input>
+		<input type="text" name="chosenCake"></input><br>
+		<input id="orderButton" type="submit" value="Submit" onClick="checkOrder(this.form)"></input>
 
 	</form>
 </div>
