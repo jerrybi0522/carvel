@@ -112,7 +112,7 @@ body{
 	font-size: 20px;
 }
 
-<<<<<<< HEAD
+
 #map {
 	margin: auto;
 }
@@ -137,6 +137,14 @@ body{
 	float: right;
 	margin:50px;
 
+}
+
+#deal {
+    background-color: #A30234;
+    height: 80%;
+    width: 600px;
+    float: right;
+    margin: 50px;
 }
 
 #deal span{
